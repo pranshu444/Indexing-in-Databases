@@ -1,6 +1,6 @@
 # Introduction
 
-This repository is a course project for **CS315: Introduction to Database Management Systems**. The project explores and analyzes the performance of various indexing techniques used in database systems. Indexing is a critical aspect of database management, as it significantly impacts query performance by reducing the number of disk I/O operations required.
+This repository is a project for ** Introduction to Database Management Systems**. The project explores and analyzes the performance of various indexing techniques used in database systems. Indexing is a critical aspect of database management, as it significantly impacts query performance by reducing the number of disk I/O operations required.
 
 The project analyses various different indexing techniques and here we present our simulation of the major three indexing techniques:
 1. **Bitmap Indexing**
